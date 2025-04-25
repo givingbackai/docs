@@ -1,5 +1,4 @@
-{
-"wards": [
+[
 	{
 		"ward_id" : 4999,
 		"ward_number" : 7,
@@ -128117,4 +128116,4 @@
 		"modified_date" : "2023-06-15T23:53:35.725Z",
 		"modified_by" : "givingback.ai"
 	}
-]}
+]
